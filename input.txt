@@ -1,0 +1,4 @@
+This is an input example
+This is a line in input example
+This is the second line in input example
+This is a text input for self-learning purpose
