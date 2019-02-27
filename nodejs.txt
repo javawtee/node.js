@@ -1,0 +1,4 @@
+node.js is not a language nor framework; node.js is a runtime environment
+
+What does Node package manager (npm) do? 
+
